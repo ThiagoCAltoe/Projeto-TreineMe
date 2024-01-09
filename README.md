@@ -1,4 +1,4 @@
-<h1 align="center"> Pagina simples </h1>
+<h1 align="center"> Projeto Treine.me</h1>
 
 <p align="center">
   <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,9 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Apenas um projeto de uma pagina simples simulando que seja para uma empresa que venda movéis customizados!
+Apenas um projeto de uma pagina simples simulando que seja para uma empresa de treinamentos de academia!
 
-- [Acesse o projeto finalizado, online](https://thiagocaltoe.github.io/ )
+- [Acesse o projeto finalizado, online](https://thiagocaltoe.github.io/Projeto-TreineMe/)
 
 ## :memo: Licença
 
